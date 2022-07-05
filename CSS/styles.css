@@ -1,0 +1,106 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 3rem;
+  margin: 5px;
+}
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.orange {
+  color: orange;
+}
+.flexible-content {
+  display: flex;
+  margin-bottom: 80px;
+}
+.common-width {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 3%;
+}
+.common-width img {
+  width: 80%;
+  margin-top: 5%;
+}
+.header-para {
+  margin-top: 80px;
+  line-height: 60px;
+}
+
+.orange-button {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(orange, tomato);
+  padding: 13px 30px;
+  font-weight: 600;
+  border-radius: 20px;
+}
+p {
+  line-height: 25px;
+}
+.middle-section-contact {
+  height: auto;
+  background-image: url(../images/7.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#girls img {
+  width: 50%;
+  margin-left: 30%;
+  margin-top: 20%;
+}
+.about-us {
+  margin-top: 12%;
+  margin-right: 5%;
+}
+.my-recipe {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 2%;
+}
+
+.recipe-item img {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.recipe-item {
+  border: 20px solid white;
+  background-color: white;
+  box-shadow: 10px 1px 30px lightgray;
+  border-radius: 35px;
+}
+#box-recipe-item1 {
+  margin-left: 6%;
+  margin-right: 1%;
+}
+#box-recipe-item2 {
+  margin-right: 6%;
+  margin-left: 1%;
+}
+.social-activities {
+  background-color: white;
+  margin-left: 6%;
+  margin-right: 6%;
+  border-radius: 15px;
+  box-shadow: 10px 1px 30px lightgray;
+}
+.socialMedia {
+  margin: auto;
+  padding: 3%;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  color: gray;
+  padding: 2%;
+}
+footer p {
+  color: white;
+}
